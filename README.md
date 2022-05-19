@@ -6953,7 +6953,7 @@ plt.imshow(immm[0][0],cmap='gray') # Display an example train image and label
 
 
     
-![png](output_23_1.png)
+![png](./img/output_23_1.png)
     
 
 
@@ -8211,7 +8211,7 @@ plt.plot(train_acc_list)
 
 
     
-![png](output_35_1.png)
+![png](./img/output_35_1.png)
     
 
 
@@ -8237,7 +8237,7 @@ plt.ylim(0,5)
 
 
     
-![png](output_37_1.png)
+![png](./img/output_37_1.png)
     
 
 
